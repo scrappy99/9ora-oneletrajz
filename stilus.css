@@ -1,0 +1,31 @@
+html {
+    background-color: black;
+}
+
+body {
+    background-color: white;
+    width: 60%;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 10px 15px;
+    
+}
+
+img {
+    float: right;
+    width: 120px;
+}
+
+h1,h2 {
+    color: royalblue;
+}
+
+hr {
+    color: blue;
+    clear: both;
+}
+
+div {
+    padding-bottom: 10px;
+}
